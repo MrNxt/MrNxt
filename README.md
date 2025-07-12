@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Alejandro+Prieto;Análista+y+Desarrollador+de+Software" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Alejandro+Prieto;Desarrollador+de+Software" alt="typing intro" />
 </div>
 
 </details>
