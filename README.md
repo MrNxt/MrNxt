@@ -3,25 +3,19 @@
 	<img src="https://komarev.com/ghpvc/?username=tobias-tj&style=plastic&color=blueviolet" alt="Visitas al perfil"/>
 </p>
 
-<!-- Snake animación (opcional, podés quitarlo si no querés) -->
+<!-- Snake animación -->
 <p align="center">
 	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 
 <div align="center">
 
-<!-- Imagen superior decorativa (opcional) -->
 <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Decoración Pokeball" />
 
 <details>
 <summary>Ver perfil</summary>
 
 <br>
-
-<!-- FOTO DE PERFIL (reemplazá el src con tu imagen) -->
-<div align="center">
-  <img height="200" src="TU_IMAGEN_AQUI" alt="Foto de perfil de Alejandro Prieto">
-</div>
 
 <!-- Título animado -->
 <div align="center">
