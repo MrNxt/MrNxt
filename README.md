@@ -93,7 +93,7 @@
 <summary>📊 Estadísticas</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobias-tj&show_icons=true&theme=tokyonight" alt="GitHub Stats de Alejandro Prieto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro&show_icons=true&theme=tokyonight" alt="GitHub Stats de Alejandro Prieto" />
 </p>
 
 </details>
