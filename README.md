@@ -19,7 +19,7 @@
 
 <!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=2F80ED&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Alejandro+Prieto;Desarrollador+de+software+y+emprendedor;Creador+de+ProtorGuard+y+Tekko;Apasionado+por+la+IA+y+el+impacto+social" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=2F80ED&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Alejandro+Prieto;Analista+y+Desarrollador+de+software;Apasionado+por+la+tecnológia+y+los+deportes+extremos" alt="typing intro" />
 </div>
 </details>
 
