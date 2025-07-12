@@ -17,9 +17,8 @@
 
 <br>
 
-<!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=300&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hola%2C+soy+Alejandro+Prieto;Analista+y+Desarrollador+de+software;Apasionado+por+la+tecnología+y+los+deportes+extremos" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Alejandro+Prieto;Desarrollador+de+software;Apasionado+por+la+tecnolog%C3%ADa+y+los+deportes+extremos" alt="typing intro" />
 </div>
 
 </details>
