@@ -40,8 +40,7 @@
 <summary>🧠 Sobre mí</summary>
 
 ```js
-/**
- *
+/*
  * @param {string} ubicación - Asunción, Paraguay 🇵🇾
  * @param {string[]} idiomas - Español, Inglés, Portugués, Guaraní.
  * @param {string} profesion - Analista y Desarrollador de Software.
