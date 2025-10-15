@@ -41,7 +41,6 @@
 
 ```js
 /**
- * Una descripción de alguien que me conoce bien (ChatGPT).
  *
  * @param {string} ubicación - Asunción, Paraguay 🇵🇾
  * @param {string[]} idiomas - Español, Inglés, Portugués, Guaraní.
